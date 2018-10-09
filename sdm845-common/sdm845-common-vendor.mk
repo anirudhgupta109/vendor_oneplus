@@ -464,7 +464,7 @@ PRODUCT_PACKAGES += \
 ifeq ($(QCPATH),)
 
 PRODUCT_PACKAGES += \
-    #AntHalService \
+    AntHalService \
     QtiSystemService \
     QtiTelephonyService \
     datastatusnotification \
